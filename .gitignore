@@ -1,7 +1,0 @@
-# mac 系统文件
-.DS_Store
-node_modules/
-target/
-*.log
-*.class
-*.jar
